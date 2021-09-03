@@ -13,4 +13,4 @@
 - Spring Framework
 - Spring Boot: permite crear aplicaciones autocontenidas.
 - Spring Data JPA: para integrar la base de datos con la app.
-- Spring Security: Gestion de la seguridad, autenticación y autorizaciónpring
+- Spring Security: Gestion de la seguridad, autenticación y autorización.
